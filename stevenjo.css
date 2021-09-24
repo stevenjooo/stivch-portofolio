@@ -1,0 +1,86 @@
+.foto>.foto{
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    
+}
+body{
+    background-color: dimgrey;
+}
+
+.tengah{
+    background-color: grey;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    padding: 5px 5px 5x 5px;
+    
+    padding-left: 42%;
+}
+
+.foto>.foto{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-top: 22px;
+    margin-bottom: 22px;  
+}
+
+.biodata{
+    background-color: grey;
+    padding-top: 1px;
+    padding-left: 1px;
+    padding-bottom: 1px;
+    padding-right: 1px;
+    padding: 1px 1px 1px 1px;
+    padding-left: 48%;
+}
+
+.pendi{
+    background-color: grey;
+    padding-top: 1px;
+    padding-left: 1px;
+    padding-bottom: 1px;
+    padding-right: 1px;
+    padding: 1px 1px 1px 1px;
+    padding-left: 43%;  
+}
+
+.manor{
+    background-color: grey;
+    padding-top: 1px;
+    padding-left: 1px;
+    padding-bottom: 1px;
+    padding-right: 1px;
+    padding: 1px 1px 1px 1px;
+    padding-left: 36%;     
+}
+
+.prest{
+    background-color: grey;
+    padding-top: 1px;
+    padding-left: 1px;
+    padding-bottom: 1px;
+    padding-right: 1px;
+    padding: 1px 1px 1px 1px;
+    padding-left: 45%;      
+}
+
+.pres{
+    font-size: 18px;
+}
+
+.insp{
+    background-color: grey;
+    padding-top: 1px;
+    padding-left: 1px;
+    padding-bottom: 1px;
+    padding-right: 1px;
+    padding: 1px 1px 1px 1px;
+    padding-left: 45%;  
+}
+
+.inspir{
+    font-size: 18px;
+}
